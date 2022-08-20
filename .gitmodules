@@ -1,0 +1,3 @@
+[submodule "MVRE"]
+	path = MVRE
+	url = https://github.com/MVREngine/MVRE.git

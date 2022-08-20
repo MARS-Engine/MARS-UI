@@ -1,0 +1,1 @@
+target_sources(MVRE-GUI PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/Style.cpp)
